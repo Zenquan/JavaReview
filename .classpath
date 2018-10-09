@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bank/src"/>
+	<classpathentry kind="src" path="com.zenquan.second/src"/>
+	<classpathentry kind="src" path="firstWebApp/src"/>
+	<classpathentry kind="src" path="learnJava/src"/>
+	<classpathentry kind="src" path="myApp/src"/>
+	<classpathentry kind="output" path="bank/bin"/>
+</classpath>
